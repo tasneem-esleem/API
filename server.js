@@ -47,7 +47,7 @@ const books = [
     grade: "Grade 10",
     title: "Mathematics Book Grade 10",
     description: "Learn algebra, equations, and basic geometry concepts",
-    cover: "https://placehold.co/160x200/4CAF50/white?text=Math+10",
+    cover: "https://ibb.co/j9fQYPr1",
   },
   {
     id: 2,
@@ -55,7 +55,7 @@ const books = [
     grade: "Grade 10",
     title: "Physics Book Grade 10",
     description: "Understand motion, forces, and the laws of physics.",
-    cover: "https://placehold.co/160x200/FF9800/white?text=Physics+10",
+    cover: "https://ibb.co/Z6J52rg3",
   },
   {
     id: 3,
@@ -63,7 +63,7 @@ const books = [
     grade: "Grade 10",
     title: "Chemistry Book Grade 10",
     description: "Learn about elements, reactions, and chemical experiments.",
-    cover: "https://placehold.co/160x200/E91E63/white?text=Chemistry+10",
+    cover: "https://ibb.co/xq16p9sn",
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ const books = [
     grade: "Grade 10",
     title: "Biology Book Grade 10",
     description: "Explore scientific concepts about nature, energy, and living things.",
-    cover: "https://placehold.co/160x200/2196F3/white?text=Biology+10",
+    cover: "https://ibb.co/rKTt0QYV0",
   },
   {
     id: 5,
@@ -79,7 +79,7 @@ const books = [
     grade: "Grade 10",
     title: "English Book Grade 10",
     description: "Improve reading, writing, and grammar concepts in English.",
-    cover: "https://placehold.co/160x200/009688/white?text=English+10",
+    cover: "https://ibb.co/0ydJmyG2",
   },
   {
     id: 6,
@@ -87,7 +87,7 @@ const books = [
     grade: "Grade 10",
     title: "Arabic Book Grade 10",
     description: "Develop reading, writing, and grammar skills in Arabic.",
-    cover: "https://placehold.co/160x200/795548/white?text=Arabic+10",
+    cover: "https://ibb.co/8DV6P2TV",
   },
   {
     id: 7,
@@ -95,7 +95,7 @@ const books = [
     grade: "Grade 10",
     title: "History Book Grade 10",
     description: "Discover important historical events and civilizations from the past.",
-    cover: "https://placehold.co/160x200/607D8B/white?text=History+10",
+    cover: "https://ibb.co/Pzs6zrk0",
   },
   {
     id: 8,
@@ -103,7 +103,7 @@ const books = [
     grade: "Grade 10",
     title: "Geography Book Grade 10",
     description: "Learn about countries, climates, and the Earth's natural features.",
-    cover: "https://placehold.co/160x200/8BC34A/white?text=Geography+10",
+    cover: "https://ibb.co/r2HjcWfY",
   },
 ];
 
