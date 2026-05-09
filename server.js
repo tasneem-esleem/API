@@ -47,7 +47,7 @@ const books = [
     grade: "Grade 10",
     title: "Mathematics Book Grade 10",
     description: "Learn algebra, equations, and basic geometry concepts",
-    cover: "https://ibb.co/j9fQYPr1",
+    cover: "https://i.ibb.co/Q7QTV3K1/Rectangle-107.png",
   },
   {
     id: 2,
@@ -55,7 +55,7 @@ const books = [
     grade: "Grade 10",
     title: "Physics Book Grade 10",
     description: "Understand motion, forces, and the laws of physics.",
-    cover: "https://ibb.co/Z6J52rg3",
+    cover: "https://i.ibb.co/jv5mJYwd/Rectangle-105.png",
   },
   {
     id: 3,
@@ -63,7 +63,7 @@ const books = [
     grade: "Grade 10",
     title: "Chemistry Book Grade 10",
     description: "Learn about elements, reactions, and chemical experiments.",
-    cover: "https://ibb.co/xq16p9sn",
+    cover: "https://i.ibb.co/SwtBhYxk/Rectangle-103.png",
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ const books = [
     grade: "Grade 10",
     title: "Biology Book Grade 10",
     description: "Explore scientific concepts about nature, energy, and living things.",
-    cover: "https://ibb.co/rKTt0QYV0",
+    cover: "https://i.ibb.co/p6GPw1cS/Rectangle-101.png",
   },
   {
     id: 5,
@@ -79,7 +79,7 @@ const books = [
     grade: "Grade 10",
     title: "English Book Grade 10",
     description: "Improve reading, writing, and grammar concepts in English.",
-    cover: "https://ibb.co/0ydJmyG2",
+    cover: "https://i.ibb.co/fdP0qdxF/Rectangle-115.png",
   },
   {
     id: 6,
@@ -87,7 +87,7 @@ const books = [
     grade: "Grade 10",
     title: "Arabic Book Grade 10",
     description: "Develop reading, writing, and grammar skills in Arabic.",
-    cover: "https://ibb.co/8DV6P2TV",
+    cover: "https://i.ibb.co/VW82MDr8/Rectangle-113.png",
   },
   {
     id: 7,
@@ -95,7 +95,7 @@ const books = [
     grade: "Grade 10",
     title: "History Book Grade 10",
     description: "Discover important historical events and civilizations from the past.",
-    cover: "https://ibb.co/Pzs6zrk0",
+    cover: "https://i.ibb.co/R4GD4g8d/Rectangle-111.png",
   },
   {
     id: 8,
@@ -103,7 +103,7 @@ const books = [
     grade: "Grade 10",
     title: "Geography Book Grade 10",
     description: "Learn about countries, climates, and the Earth's natural features.",
-    cover: "https://ibb.co/r2HjcWfY",
+    cover: "https://i.ibb.co/s9qf6BJn/Rectangle-109.png",
   },
 ];
 
