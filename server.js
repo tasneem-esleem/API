@@ -60,6 +60,7 @@ const books = [
     description: "Understand motion, forces, and the laws of physics.",
     cover: "https://i.ibb.co/jv5mJYwd/Rectangle-105.png",
     teacher: "Taught by teacher Kareem Adel",
+    pdfUrl:"https://drive.google.com/file/d/1W-lguHMHVOGiAgluxKUIWq7NBY8qiUae/view?usp=sharing",
     longDescription: "The tenth-grade physics textbook serves as a fundamental introduction to understanding the laws governing natural phenomena in our daily lives. It defines physics as the science that studies matter, energy, and the relationship between them. The book typically begins by exploring concepts of motion, such as distance, displacement, speed, and acceleration, explaining how to describe the movement of objects using laws and equations. It then moves on to the study of forces, explaining their types, such as gravity and friction, and Newton's three laws, which explain the effect of forces on the motion of objects and how a force can change an object's speed or direction. The book also covers work and energy, explaining the concept of work and its relationship to force and displacement, and the types of energy, such as kinetic and potential energy, along with the principle of conservation of energy and its transformations from one form to another. It also addresses power and how to measure it. Furthermore, the book explains some concepts related to heat, such as temperature, methods of heat transfer (conduction, convection, and radiation), and their effects on objects. Finally, the book includes the study of waves, such as sound and light, and their properties, such as frequency, wavelength, and speed of propagation, in addition to some related phenomena. Overall, the tenth-grade physics textbook aims to develop the student’s ability to understand the natural phenomena around him in a scientific way, to use laws and equations to explain them, and to link physical concepts to practical applications in daily life.",
     gradeLabel: "First year of secondary school",
   },
@@ -80,6 +81,7 @@ const books = [
     grade: "Grade 10",
     title: "Biology Book Grade 10",
     description: "Explore scientific concepts about nature, energy, and living things.",
+    pdfUrl:"https://drive.google.com/file/d/12ooemHrL-mzrGpZOOxzvkIyZhlobDJg4/view?usp=sharing",
     cover: "https://i.ibb.co/p6GPw1cS/Rectangle-101.png",
     teacher: "Taught by teacher Youssef Al-Kilani",
     longDescription: "The tenth-grade biology textbook serves as a fundamental introduction to understanding biology. It defines living organisms and their characteristics, demonstrating that they all share vital processes such as nutrition, respiration, growth, reproduction, response to stimuli, and waste elimination, distinguishing them from non-living things. The book focuses heavily on the cell as the basic structural and functional unit of a living organism, explaining its structure and components, such as the plasma membrane, nucleus, cytoplasm, and various organelles. It also clarifies the difference between prokaryotic and eukaryotic cells and compares plant cells, which contain a cell wall and chloroplasts, with animal cells, which lack them. The book covers vital processes within the cell, such as photosynthesis, which plants use to produce their own food using sunlight, water, and carbon dioxide to create oxygen, and cellular respiration, which releases the energy necessary for vital activities. It also highlights biodiversity and its importance in stabilizing ecosystems and providing various resources. Finally, it presents the interrelationships between living organisms, such as predation, parasitism, and symbiosis, explaining the role of each in achieving ecological balance. In addition, the book explains the concept of food chains and food webs, how energy is transferred from producers to consumers and then to decomposers, and the impact of this process on the continuation of life. It also discusses the environment, including its living and non-living components, and the influence of various factors on living organisms, emphasizing the importance of preserving the environment and natural resources to ensure the continuation of life on Earth.",
@@ -105,6 +107,7 @@ const books = [
     description: "Develop reading, writing, and grammar skills in Arabic.",
     cover: "https://i.ibb.co/VW82MDr8/Rectangle-113.png",
     teacher: "Taught by teacher Ali Mahmoud",
+    pdfUrl:"https://drive.google.com/file/d/1bdGklnYFZC8ZIEY2lctMJhcih1fsKxkc/view?usp=sharing",
     longDescription: "The Arabic language textbook for tenth grade aims to develop students' reading, writing, listening, and speaking skills, and to enhance their ability to understand and analyze texts and express their ideas clearly and effectively. The book includes a diverse collection of reading texts, such as literary, poetic, and prose texts, which address human, social, and national themes. It aims to cultivate students' literary appreciation and broaden their knowledge. The book focuses on reading comprehension skills by encouraging students to extract main and supporting ideas, analyze meanings and concepts, and interpret vocabulary within context. It also covers Arabic grammar rules gradually, including nominal and verbal sentences, types of predicates, subjects, verbs and their types, as well as various grammatical markers and their application in sentences. Furthermore, the book emphasizes writing skills such as paragraph writing, summarizing, creative expression, and letter writing, while training students to organize and logically sequence their ideas. Finally, it focuses on developing oral expression skills through dialogue, discussion, and expressing opinions.Overall, the Arabic language textbook for the tenth grade aims to strengthen the student’s language skills in all aspects, enabling him to use it correctly in his academic and daily life, and to develop his ability to think and express himself clearly and effectively.",
     gradeLabel: "First year of secondary school",
   },
@@ -113,6 +116,7 @@ const books = [
     subject: "History",
     grade: "Grade 10",
     title: "History Book Grade 10",
+    pdfUrl:"https://drive.google.com/file/d/13J1m0t63HYttcXcRNS9jjEEDGJdbI-w-/view?usp=sharing",
     description: "Discover important historical events and civilizations from the past.",
     cover: "https://i.ibb.co/R4GD4g8d/Rectangle-111.png",
     teacher: "",
@@ -126,6 +130,7 @@ const books = [
     title: "Geography Book Grade 10",
     description: "Learn about countries, climates, and the Earth's natural features.",
     cover: "https://i.ibb.co/s9qf6BJn/Rectangle-109.png",
+    pdfUrl:"https://drive.google.com/file/d/1zu5u4_jEiD5cKPE-IybIpoDc3RBAaWsm/view?usp=sharing",
     teacher: "Taught by teacher Lina Muhammad",
     longDescription: "The tenth-grade history textbook aims to introduce students to significant historical events that humanity has experienced, focusing on understanding the development of civilizations and the factors that influenced them. The book begins by studying ancient civilizations such as those of Mesopotamia and ancient Egypt, explaining their origins and their most important achievements in writing, architecture, and law. It then moves on to the study of Arab-Islamic civilization, outlining its stages of development and expansion, highlighting its most prominent scientific and cultural advancements, and its role in transmitting knowledge to the world. The book also covers later historical periods, such as the Middle Ages and the modern era, explaining the most important events and major transformations the world witnessed, such as geographical discoveries and various revolutions, and their impact on changing the political and economic landscape. It also focuses on the history of Palestine, in terms of its location and cultural significance, and the events it has undergone throughout the ages, emphasizing the resilience of the Palestinian people and their attachment to their land. The book is committed to developing students' historical thinking skills, such as analyzing events, connecting causes and effects, understanding chronology, and drawing lessons from the past. Overall, the tenth-grade history textbook aims to enhance the student's awareness of the history of his nation and the world, and to develop his ability to understand the present through the study of the past.",
     gradeLabel: "First year of secondary school",
@@ -614,7 +619,19 @@ app.patch("/api/assignments/:id/complete", auth, (req, res) => {
   assignment.completed = true;
   res.json(assignment);
 });
+//  Privacy & Security
+app.patch("/api/auth/change-password", auth, (req, res) => {
+  const { email, old_password, new_password } = req.body;
 
+  const user = users.find(
+    (u) => u.id === req.user.id && u.email === email && u.password === old_password
+  );
+
+  if (!user) return res.status(401).json({ error: "Invalid email or old password" });
+
+  user.password = new_password;
+  res.json({ success: true });
+});
 // ─── NOTIFICATIONS ───────────────────────────────────────────────────────────
 app.get("/api/notifications", auth, (req, res) => {
   const result = notifications.filter((n) => n.userId === req.user.id);
