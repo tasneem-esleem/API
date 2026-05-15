@@ -570,11 +570,21 @@ app.get("/api/auth/me", auth, (req, res) => {
   res.json(userSafe);
 });
 
+// FeedBack
+app.post("/api/feedback", auth, (req, res) => {
+  const { rating, comment, enjoy } = req.body;
+
+  if (!rating) return res.status(400).json({ error: "Rating is required" });
+
+  console.log("New feedback:", { userId: req.user.id, rating, comment, enjoy });
+
+  res.json({ success: true, message: "Feedback sent successfully" });
+});
+
 // ─── CHANGE PASSWORD ─────────────────────────────────────────────────────────
 app.patch("/api/auth/change-password", auth, (req, res) => {
   const { email, old_password, new_password } = req.body;
 
-  // تحقق من الإيميل وكلمة السر القديمة
   const user = users.find(
     (u) => u.id === req.user.id && u.email === email && u.password === old_password
   );
@@ -583,7 +593,6 @@ app.patch("/api/auth/change-password", auth, (req, res) => {
     return res.status(401).json({ error: "Invalid email or old password" });
   }
 
-  // تحديث كلمة السر
   user.password = new_password;
 
   res.json({ success: true, message: "Password updated successfully" });
