@@ -372,6 +372,7 @@ const lessons = [
     duration: "40 min",
     videoUrl: "#",
     watched: false,
+    thumbnail:"https://i.ibb.co/yn6Tbfpm/Rectangle-276-1.png"
   },
   {
     id: 5,
@@ -382,6 +383,7 @@ const lessons = [
     duration: "35 min",
     videoUrl: "#",
     watched: false,
+    thumbnail:"https://i.ibb.co/W4vGhj3g/Rectangle-289.png"
   },
   {
     id: 6,
@@ -392,6 +394,7 @@ const lessons = [
     duration: "42 min",
     videoUrl: "#",
     watched: true,
+    thumbnail:"https://i.ibb.co/60wWFkht/Rectangle-285-1.png"
   },
   {
     id: 7,
@@ -402,7 +405,229 @@ const lessons = [
     duration: "44 min",
     videoUrl: "#",
     watched: false,
+    thumbnail:"https://i.ibb.co/fj31kbS/Rectangle-287.png"
   },
+  {
+    id: 8,
+    bookId: 5,
+    subject: "Math",
+    grade: "First year of secondary school",
+    title: "Pair Pairing",
+    duration: "17:47 mins",
+    teacher: "T. Rana Youssef",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/8ncKwW9v/Rectangle-280-1.png"
+  },
+  {
+    id: 9,
+    bookId: 5,
+    subject: "Math",
+    grade: "First year of secondary school",
+    title: "Individual Pairing",
+    duration: "2:21 mins",
+    teacher: "T. Rana Youssef",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/8ncKwW9v/Rectangle-280-1.png"
+  },
+  {
+    id: 10,
+    bookId: 5,
+    subject: "Math",
+    grade: "First year of secondary school",
+    title: "Statistics",
+    duration: "56:46 mins",
+    teacher: "T. Rana Youssef",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/ycj6v42y/Rectangle-285-2.png"
+  },
+
+  {
+    id: 11,
+    bookId: 6,
+    subject: "Physics",
+    grade: "First year of secondary school",
+    title: "Vectors",
+    duration: "12:13 mins",
+    teacher: "T. Kareem Adel",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/ZzQTgCr0/Rectangle-276-2.png"
+  },
+  {
+    id: 12,
+    bookId: 6,
+    subject: "Physics",
+    grade: "First year of secondary school",
+    title: "Measurement",
+    duration: "4:28 mins",
+    teacher: "T. Kareem Adel",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/HDqjZmDH/Rectangle-280-2.png"
+  },
+  {
+    id: 13,
+    bookId: 6,
+    subject: "Physics",
+    grade: "First year of secondary school",
+    title: "Newton's Laws",
+    duration: "38:23 mins",
+    teacher: "T. Kareem Adel",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/V0H214rD/Rectangle-285-3.png"
+  },
+
+  {
+    id: 14,
+    bookId: 7,
+    subject: "History",
+    grade: "First year of secondary school",
+    title: "Industrial Revolution",
+    duration: "22:47 mins",
+    teacher: "T. Lina Muhammad",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
+  },
+  {
+    id: 15,
+    bookId: 7,
+    subject: "History",
+    grade: "First year of secondary school",
+    title: "Persian Empire",
+    duration: "9:04 mins",
+    teacher: "T. Lina Muhammad",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
+  },
+  {
+    id: 16,
+    bookId: 7,
+    subject: "History",
+    grade: "First year of secondary school",
+    title: "Ottoman Empire",
+    duration: "21:35 mins",
+    teacher: "T. Lina Muhammad",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
+  },
+
+  {
+    id: 17,
+    bookId: 8,
+    subject: "Geography",
+    grade: "First year of secondary school",
+    title: "Atmosphere",
+    duration: "8:34 mins",
+    teacher: "T. Hoda Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/S4GpzLqG/Rectangle-276-3.png"
+  },
+  {
+    id: 18,
+    bookId: 8,
+    subject: "Geography",
+    grade: "First year of secondary school",
+    title: "Tourism components",
+    duration: "10:52 mins",
+    teacher: "T. Hoda Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/8nKWzk46/Rectangle-280-3.png"
+  },
+  {
+    id: 19,
+    bookId: 8,
+    subject: "Geography",
+    grade: "First year of secondary school",
+    title: "Satellites",
+    duration: "4:59 mins",
+    teacher: "T. Hoda Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/Mx3LBPZk/Rectangle-285-5.png"
+  },
+
+  {
+    id: 20,
+    bookId: 9,
+    subject: "English",
+    grade: "First year of secondary school",
+    title: "Present Simple",
+    duration: "4:50 mins",
+    teacher: "T. Mustafa Saleh",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
+  },
+  {
+    id: 21,
+    bookId: 9,
+    subject: "English",
+    grade: "First year of secondary school",
+    title: "Present Continuous",
+    duration: "4:25 mins",
+    teacher: "T. Mustafa Saleh",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
+  },
+  {
+    id: 22,
+    bookId: 9,
+    subject: "English",
+    grade: "First year of secondary school",
+    title: "Present Perfect",
+    duration: "5:56 mins",
+    teacher: "T. Mustafa Saleh",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
+  },
+
+  {
+    id: 23,
+    bookId: 10,
+    subject: "Arabic",
+    grade: "First year of secondary school",
+    title: "Passive Participle",
+    duration: "4:03 mins",
+    teacher: "T. Ali Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
+  },
+  {
+    id: 24,
+    bookId: 10,
+    subject: "Arabic",
+    grade: "First year of secondary school",
+    title: "Active Participle",
+    duration: "19:36 mins",
+    teacher: "T. Ali Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/1JpYyWrF/Rectangle-280-4.png"
+  },
+  {
+    id: 25,
+    bookId: 10,
+    subject: "Arabic",
+    grade: "First year of secondary school",
+    title: "Attached Pronouns",
+    duration: "9:44 mins",
+    teacher: "T. Ali Mahmoud",
+    videoUrl: "#",
+    watched: false,
+    thumbnail: "https://i.ibb.co/xK1jDXZv/Rectangle-285-7.png"
+  }
 ];
 
 const assignments = [
@@ -419,7 +644,7 @@ const assignments = [
   },
   {
     id: 2,
-    bookId: 2,
+    bookId: 10,
     subject: "Physics",
     grade: "Grade 10",
     taskNumber: 2,
