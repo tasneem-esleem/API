@@ -145,6 +145,7 @@ const books = [
     teacher: "Taught by teacher Mustafa Saleh",
     longDescription: "The Grade 11 English textbook is an advanced course designed to develop students' language skills more deeply and professionally.",
     gradeLabel: "Second year of secondary school (Literary)",
+    pdfUrl:"https://drive.google.com/file/d/1SSGITOgIDHO_d3csL--TDahq6VHAEkTx/view?usp=sharing"
   },
   {
     id: 10,
@@ -156,6 +157,7 @@ const books = [
     teacher: "Taught by teacher Ali Mahmoud",
     longDescription: "The Arabic language textbook for the eleventh grade is an advanced level textbook designed to develop students' linguistic and literary skills more deeply and precisely.",
     gradeLabel: "Second year of secondary school (Literary)",
+     pdfUrl:"https://drive.google.com/file/d/1fx1hMh6lfTbuNakkuVRiAKGprHsWEhqD/view?usp=sharing"
   },
   {
     id: 11,
@@ -167,6 +169,7 @@ const books = [
     teacher: "Taught by teacher Lina Muhammad",
     longDescription: "The eleventh-grade history textbook is an advanced stage designed to deepen students' understanding of historical events and analyze them more broadly and coherently.",
     gradeLabel: "Second year of secondary school (Literary)",
+     pdfUrl:"https://drive.google.com/file/d/1fsKhbRjga6_lAkBtRTDhOa3QDvYwcDJ5/view?usp=sharing"
   },
   {
     id: 12,
@@ -178,6 +181,7 @@ const books = [
     teacher: "Taught by teacher Hoda Mahmoud",
     longDescription: "The eleventh-grade geography textbook is an advanced level textbook designed to deepen students' understanding of natural and human geographical phenomena.",
     gradeLabel: "Second year of secondary school (Literary)",
+     pdfUrl:"https://drive.google.com/file/d/1o-EvaB-oqfNtdN9Imo7sv4V6-W_PmS2q/view?usp=sharing"
   },
   {
     id: 13,
@@ -189,6 +193,7 @@ const books = [
     teacher: "Taught by teacher Rana Youssef",
     longDescription: "The eleventh-grade mathematics textbook is an advanced level designed to deepen mathematical understanding and develop analytical and problem-solving skills.",
     gradeLabel: "Second year of secondary school (Scientific)",
+    pdfUrl:"https://drive.google.com/file/d/1tKtQmwwfeQPqP05B-jq5rV3Boj9ljzIt/view?usp=sharing",
   },
   {
     id: 14,
@@ -200,6 +205,7 @@ const books = [
     teacher: "Taught by teacher Kareem Adel",
     longDescription: "The eleventh-grade physics textbook represents an advanced stage in physics studies.",
     gradeLabel: "Second year of secondary school (Scientific)",
+     pdfUrl:"https://drive.google.com/file/d/1SSGITOgIDHO_d3csL--TDahq6VHAEkTx/view?usp=sharing"
   },
   {
     id: 15,
@@ -211,6 +217,7 @@ const books = [
     teacher: "Taught by teacher Nour Hassan",
     longDescription: "The eleventh-grade chemistry textbook represents an advanced stage in the study of chemistry.",
     gradeLabel: "Second year of secondary school (Scientific)",
+        pdfUrl:"https://drive.google.com/file/d/1jihdSVNkx3t-tpVrsd6hq3jTC0S8n5By/view?usp=sharing"
   },
   {
     id: 16,
@@ -222,6 +229,7 @@ const books = [
     teacher: "Taught by teacher Youssef Al-Kilani",
     longDescription: "The eleventh-grade biology textbook represents an advanced stage in the study of biology.",
     gradeLabel: "Second year of secondary school (Scientific)",
+     pdfUrl:"https://drive.google.com/file/d/1SSGITOgIDHO_d3csL--TDahq6VHAEkTx/view?usp=sharing"
   },
   {
     id: 17,
@@ -233,6 +241,7 @@ const books = [
     teacher: "Taught by teacher Mustafa Saleh",
     longDescription: "The Grade 12 English textbook is an advanced course designed to help students reach a higher level of language proficiency.",
     gradeLabel: "Third year of secondary school (Literary)",
+       pdfUrl:"https://drive.google.com/file/d/1B8IVLcMr07hjftPDEmax4mnUY3n2He_X/view?usp=sharing"
   },
   {
     id: 18,
@@ -244,6 +253,7 @@ const books = [
     teacher: "Taught by teacher Ali Mahmoud",
     longDescription: "The Arabic language textbook for the twelfth grade is considered an advanced curriculum designed to deeply develop students' linguistic and literary skills.",
     gradeLabel: "Third year of secondary school (Literary)",
+     pdfUrl:"https://drive.google.com/file/d/1oPN7oOJBCiCeptW-7ROzmzZ-MP7Al6_A/view?usp=sharing"
   },
   {
     id: 19,
@@ -255,6 +265,7 @@ const books = [
     teacher: "Taught by teacher Lina Muhammad",
     longDescription: "The twelfth-grade history textbook is considered an advanced course designed to deepen students' understanding of global and Arab historical events.",
     gradeLabel: "Third year of secondary school (Literary)",
+    pdfUrl:"https://drive.google.com/file/d/1EM_blpTdi_d3lfAAhOK3a86aYeuRfARr/view?usp=sharing"
   },
   {
     id: 20,
@@ -266,6 +277,7 @@ const books = [
     teacher: "Taught by teacher Hoda Mahmoud",
     longDescription: "The twelfth-grade geography textbook is an advanced resource designed to deepen students' understanding of the world around them.",
     gradeLabel: "Third year of secondary school (Literary)",
+    pdfUrl:"https://drive.google.com/file/d/1Ha8C_BW6fKq52UU3xo7KfOjOB0WKYxzW/view?usp=sharing"
   },
   {
     id: 21,
@@ -277,6 +289,7 @@ const books = [
     teacher: "Taught by teacher Rana Youssef",
     longDescription: "The twelfth-grade mathematics textbook is considered one of the most important advanced courses.",
     gradeLabel: "Third year of secondary school (Scientific)",
+    pdfUrl:"https://drive.google.com/file/d/1nkBGh9r0oo--Ystr5_v1MvE4TyMDyxQa/view?usp=sharing"
   },
   {
     id: 22,
@@ -288,6 +301,7 @@ const books = [
     teacher: "Taught by teacher Kareem Adel",
     longDescription: "The twelfth-grade physics textbook is considered an advanced course designed to deepen students' understanding of physical laws.",
     gradeLabel: "Third year of secondary school (Scientific)",
+    pdfUrl:"https://drive.google.com/file/d/1JtztYFld5OpPsZX93UFDBZXxwK0mE8g7/view?usp=sharing"
   },
   {
     id: 23,
@@ -299,6 +313,7 @@ const books = [
     teacher: "Taught by teacher Nour Hassan",
     longDescription: "The 12th-grade chemistry textbook is considered one of the most important courses.",
     gradeLabel: "Third year of secondary school (Scientific)",
+    pdfUrl:"https://drive.google.com/file/d/1Py4_23GkSD9hr7PrzRQfM6658jIrKZEC/view?usp=sharing"
   },
   {
     id: 24,
@@ -310,6 +325,7 @@ const books = [
     teacher: "Taught by teacher Youssef Al-Kilani",
     longDescription: "The twelfth-grade biology textbook represents an advanced and comprehensive stage in the study of biology.",
     gradeLabel: "Third year of secondary school (Scientific)",
+    pdfUrl:"https://drive.google.com/file/d/1JR8-uSen5HTJmwnkVmu2GOxBUymLxJMk/view?usp=sharing"
   },
 ];
 
@@ -323,6 +339,7 @@ const lessons = [
     duration: "45 min",
     videoUrl: "#",
     watched: false,
+    thumbnail:"https://i.ibb.co/sJKRRPGZ/Rectangle-276.png"
   },
   {
     id: 2,
@@ -333,6 +350,7 @@ const lessons = [
     duration: "38 min",
     videoUrl: "#",
     watched: false,
+    thumbnail:"https://i.ibb.co/BKzSnd8R/Rectangle-280.png"
   },
   {
     id: 3,
@@ -343,6 +361,7 @@ const lessons = [
     duration: "50 min",
     videoUrl: "#",
     watched: true,
+    thumbnail:"https://i.ibb.co/zhJZHNSK/Rectangle-285.png"
   },
   {
     id: 4,
@@ -580,6 +599,72 @@ app.post("/api/feedback", auth, (req, res) => {
 
   res.json({ success: true, message: "Feedback sent successfully" });
 });
+
+// forgot-password
+
+app.post("/api/auth/forgot-password", (req, res) => {
+  const { email } = req.body;
+  const user = users.find((u) => u.email === email);
+  if (!user) return res.status(404).json({ error: "Email not found" });
+
+  user.otp = "1234";
+  console.log(`OTP for ${email}: ${user.otp}`);
+
+  res.json({ success: true, message: "OTP sent to your email" });
+});
+// OTP
+app.post("/api/auth/verify-otp", (req, res) => {
+  const { email, otp } = req.body;
+
+  const user = users.find((u) => u.email === email);
+  if (!user) return res.status(404).json({ error: "User not found" });
+
+  if (user.otp !== otp) return res.status(400).json({ error: "Invalid OTP code" });
+
+  user.otp = null;
+
+  res.json({ success: true, message: "OTP verified successfully" });
+});
+
+// register
+app.post("/api/auth/register", (req, res) => {
+  const { firstName, lastName, email, location, gender, password } = req.body;
+
+  const existing = users.find((u) => u.email === email);
+  if (existing) return res.status(400).json({ error: "Email already registered" });
+
+  const newUser = {
+    id: users.length + 1,
+    name: `${firstName} ${lastName}`,
+    email,
+    password,
+    location,
+    gender,
+    avatar: "",
+    grade: "Grade 10",
+  };
+
+  users.push(newUser);
+
+  const token = jwt.sign({ id: newUser.id, email: newUser.email }, SECRET, { expiresIn: "7d" });
+  const { password: _, ...userSafe } = newUser;
+
+  res.status(201).json({ token, user: userSafe });
+});
+
+// reset-password
+app.post("/api/auth/reset-password", (req, res) => {
+  const { email, new_password } = req.body;
+
+  const user = users.find((u) => u.email === email);
+  if (!user) return res.status(404).json({ error: "User not found" });
+
+  user.password = new_password;
+  user.otp = null;
+
+  res.json({ success: true, message: "Password reset successfully" });
+});
+
 
 // ─── CHANGE PASSWORD ─────────────────────────────────────────────────────────
 app.patch("/api/auth/change-password", auth, (req, res) => {
