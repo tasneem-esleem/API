@@ -337,7 +337,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Atomic Structure",
     duration: "45 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/OH-aSu-rWgk?si=_35KaVsG_g23aPHt",
     watched: false,
     thumbnail:"https://i.ibb.co/sJKRRPGZ/Rectangle-276.png"
   },
@@ -348,7 +348,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Atom Theory",
     duration: "38 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/QlgkN17V94c?si=vfCfsHFtNHB6OOJD",
     watched: false,
     thumbnail:"https://i.ibb.co/BKzSnd8R/Rectangle-280.png"
   },
@@ -359,7 +359,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Energy Levels Of The Atom",
     duration: "50 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/4sLXUr2HWIs?si=P9ZHwEYD7u0Vz6FF",
     watched: true,
     thumbnail:"https://i.ibb.co/zhJZHNSK/Rectangle-285.png"
   },
@@ -370,7 +370,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Cell Installation",
     duration: "40 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/URUJD5NEXC8?si=EWEM0pbGFZUAkLAN",
     watched: false,
     thumbnail:"https://i.ibb.co/yn6Tbfpm/Rectangle-276-1.png"
   },
@@ -381,7 +381,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Installation Of Microscopes",
     duration: "35 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/gqAcFKGztoY?si=Jvor6HWe_WR4xR1l",
     watched: false,
     thumbnail:"https://i.ibb.co/W4vGhj3g/Rectangle-289.png"
   },
@@ -392,7 +392,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Plant Cell Structure",
     duration: "42 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/NTunJq9LtS0?si=q2aahrlHfG0Lsf6B",
     watched: true,
     thumbnail:"https://i.ibb.co/60wWFkht/Rectangle-285-1.png"
   },
@@ -403,7 +403,7 @@ const lessons = [
     grade: "Grade 10",
     title: "Animal Cell Structure",
     duration: "44 min",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/5ugDJhmmkFM?si=SmIugb72rKkTrWzT",
     watched: false,
     thumbnail:"https://i.ibb.co/fj31kbS/Rectangle-287.png"
   },
@@ -415,7 +415,7 @@ const lessons = [
     title: "Pair Pairing",
     duration: "17:47 mins",
     teacher: "T. Rana Youssef",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/fKyBOLsqRlo?si=mKCj19LrOKXLj51z",
     watched: false,
     thumbnail: "https://i.ibb.co/8ncKwW9v/Rectangle-280-1.png"
   },
@@ -427,7 +427,7 @@ const lessons = [
     title: "Individual Pairing",
     duration: "2:21 mins",
     teacher: "T. Rana Youssef",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/OWvFieszqmY?si=rmZKYDHQlcyXtTPi",
     watched: false,
     thumbnail: "https://i.ibb.co/8ncKwW9v/Rectangle-280-1.png"
   },
@@ -439,7 +439,7 @@ const lessons = [
     title: "Statistics",
     duration: "56:46 mins",
     teacher: "T. Rana Youssef",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/XZo4xyJXCak?si=xYax_feLY-9f8noQ",
     watched: false,
     thumbnail: "https://i.ibb.co/ycj6v42y/Rectangle-285-2.png"
   },
@@ -452,7 +452,7 @@ const lessons = [
     title: "Vectors",
     duration: "12:13 mins",
     teacher: "T. Kareem Adel",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/EwSHKuSxX_8?si=APoFfipprSqVRYGf",
     watched: false,
     thumbnail: "https://i.ibb.co/ZzQTgCr0/Rectangle-276-2.png"
   },
@@ -464,7 +464,7 @@ const lessons = [
     title: "Measurement",
     duration: "4:28 mins",
     teacher: "T. Kareem Adel",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/oStm8sGk6U8?si=0z9v0MDH-cv9cLaT",
     watched: false,
     thumbnail: "https://i.ibb.co/HDqjZmDH/Rectangle-280-2.png"
   },
@@ -476,7 +476,7 @@ const lessons = [
     title: "Newton's Laws",
     duration: "38:23 mins",
     teacher: "T. Kareem Adel",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/g550H4e5FCY?si=sM8ENRYpWas-jIiU",
     watched: false,
     thumbnail: "https://i.ibb.co/V0H214rD/Rectangle-285-3.png"
   },
@@ -489,7 +489,7 @@ const lessons = [
     title: "Industrial Revolution",
     duration: "22:47 mins",
     teacher: "T. Lina Muhammad",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/R8OmJiYwY6I?si=DSGv8jCB17V_iRIF",
     watched: false,
     thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
   },
@@ -501,7 +501,7 @@ const lessons = [
     title: "Persian Empire",
     duration: "9:04 mins",
     teacher: "T. Lina Muhammad",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/yN4F25Of3E4?si=Zur4EyiJfGxsos-T",
     watched: false,
     thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
   },
@@ -513,7 +513,7 @@ const lessons = [
     title: "Ottoman Empire",
     duration: "21:35 mins",
     teacher: "T. Lina Muhammad",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/ajRdOHmYw74?si=gV0U4aNWEBnXBIiL",
     watched: false,
     thumbnail: "https://i.ibb.co/Tx4BTX8t/Rectangle-285-4.png"
   },
@@ -526,7 +526,7 @@ const lessons = [
     title: "Atmosphere",
     duration: "8:34 mins",
     teacher: "T. Hoda Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/7s5uow5b02M?si=QrcAT1kEcLAimxk_",
     watched: false,
     thumbnail: "https://i.ibb.co/S4GpzLqG/Rectangle-276-3.png"
   },
@@ -538,7 +538,7 @@ const lessons = [
     title: "Tourism components",
     duration: "10:52 mins",
     teacher: "T. Hoda Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/dAsL48QgSl4?si=Datw--gT9x5r15IP",
     watched: false,
     thumbnail: "https://i.ibb.co/8nKWzk46/Rectangle-280-3.png"
   },
@@ -550,7 +550,7 @@ const lessons = [
     title: "Satellites",
     duration: "4:59 mins",
     teacher: "T. Hoda Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtube.com/watch?v=_IiPMG43L54&feature=shared",
     watched: false,
     thumbnail: "https://i.ibb.co/Mx3LBPZk/Rectangle-285-5.png"
   },
@@ -563,7 +563,7 @@ const lessons = [
     title: "Present Simple",
     duration: "4:50 mins",
     teacher: "T. Mustafa Saleh",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/nvVdIJ0las0?si=NdBrwoKxbYYX8iq6",
     watched: false,
     thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
   },
@@ -575,7 +575,7 @@ const lessons = [
     title: "Present Continuous",
     duration: "4:25 mins",
     teacher: "T. Mustafa Saleh",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/QqxdZzOorAU?si=sqpoyAeO_lsSe8iJ",
     watched: false,
     thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
   },
@@ -587,7 +587,7 @@ const lessons = [
     title: "Present Perfect",
     duration: "5:56 mins",
     teacher: "T. Mustafa Saleh",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/553eeL1Dvho?si=lpwIAGahnAVVmrK-",
     watched: false,
     thumbnail: "https://i.ibb.co/ZRbFMRXy/Rectangle-285-6.png"
   },
@@ -600,7 +600,7 @@ const lessons = [
     title: "Passive Participle",
     duration: "4:03 mins",
     teacher: "T. Ali Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/jl0wuhg04so?si=LlmtwZzWGxf-vBOF",
     watched: false,
     thumbnail: "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
   },
@@ -612,7 +612,7 @@ const lessons = [
     title: "Active Participle",
     duration: "19:36 mins",
     teacher: "T. Ali Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/_esb2cngrp4?si=LNeJRkognG0v3yq_",
     watched: false,
     thumbnail: "https://i.ibb.co/1JpYyWrF/Rectangle-280-4.png"
   },
@@ -624,7 +624,7 @@ const lessons = [
     title: "Attached Pronouns",
     duration: "9:44 mins",
     teacher: "T. Ali Mahmoud",
-    videoUrl: "#",
+    videoUrl: "https://youtu.be/hwjhNG7dHRo?si=e2qZCq9AcwV6j7QK",
     watched: false,
     thumbnail: "https://i.ibb.co/xK1jDXZv/Rectangle-285-7.png"
   },
