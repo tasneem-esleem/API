@@ -891,6 +891,308 @@ const lessons = [
     "videoUrl": "#",
     "watched": false,
     "thumbnail": "https://i.ibb.co/gMvDKqGJ/Rectangle-285-15.png"
+  },
+  {
+    "id": 47,
+    "bookId": 18,
+    "subject": "History",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Frankish Wars",
+    "duration": "14:19 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/B5q1807L/Rectangle-276-5.png"
+  },
+  {
+    "id": 48,
+    "bookId": 18,
+    "subject": "History",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "The First World War",
+    "duration": "5:20 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/WNcm6HCH/Rectangle-280-5.png"
+  },
+  {
+    "id": 49,
+    "bookId": 18,
+    "subject": "History",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "The Second World War",
+    "duration": "28:25 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/JR4NqDbZ/Rectangle-285-8.png"
+  },
+
+  /* ==================== 2. GEOGRAPHY (Third Year - Literary) ==================== */
+  {
+    "id": 50,
+    "bookId": 19,
+    "subject": "Geography",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Energy Resources",
+    "duration": "3:51 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/r24hTpcD/Rectangle-276-12.png"
+  },
+  {
+    "id": 51,
+    "bookId": 19,
+    "subject": "Geography",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Climate Disasters",
+    "duration": "5:56 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/3yPL7yMB/Rectangle-280-11.png"
+  },
+  {
+    "id": 52,
+    "bookId": 19,
+    "subject": "Geography",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Geological Disasters",
+    "duration": "9:46 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/CK60MP78/Rectangle-285-16.png"
+  },
+
+  /* ==================== 3. ENGLISH (Third Year - Literary) ==================== */
+  {
+    "id": 53,
+    "bookId": 20,
+    "subject": "English",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Future Continuous",
+    "duration": "6:44 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
+  },
+  {
+    "id": 54,
+    "bookId": 20,
+    "subject": "English",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Future Perfect",
+    "duration": "8:11 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
+  },
+  {
+    "id": 55,
+    "bookId": 20,
+    "subject": "English",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Past Continuous",
+    "duration": "7:01 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
+  },
+
+  /* ==================== 4. ARABIC (Third Year - Literary) ==================== */
+  {
+    "id": 56,
+    "bookId": 21,
+    "subject": "Arabic",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Personal Pronouns",
+    "duration": "13:13 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
+  },
+  {
+    "id": 57,
+    "bookId": 21,
+    "subject": "Arabic",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Demonstrative Names",
+    "duration": "5:13 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
+  },
+  {
+    "id": 58,
+    "bookId": 21,
+    "subject": "Arabic",
+    "grade": "Third year of secondary school (Literary)",
+    "title": "Relative Pronouns",
+    "duration": "4:00 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
+  },
+
+  /* ==================== 5. BIOLOGY (Third Year - Scientific) ==================== */
+  {
+    "id": 59,
+    "bookId": 22,
+    "subject": "Biology",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Photosynthesis process",
+    "duration": "7:59 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/x8mbBPDS/Rectangle-276-13.png"
+  },
+  {
+    "id": 60,
+    "bookId": 22,
+    "subject": "Biology",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Cellular respiration",
+    "duration": "8:47 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/pr35Cbsw/Rectangle-289-1.png"
+  },
+  {
+    "id": 61,
+    "bookId": 22,
+    "subject": "Biology",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Aerobic respiration",
+    "duration": "2:53 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/VWx7rBLX/Rectangle-285-18.png"
+  },
+
+  /* ==================== 6. MATH (Third Year - Scientific) ==================== */
+  {
+    "id": 62,
+    "bookId": 23,
+    "subject": "Math",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Average Change",
+    "duration": "4:43 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/twP2MWXd/Rectangle-276-14.png"
+  },
+  {
+    "id": 63,
+    "bookId": 23,
+    "subject": "Math",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Matrices",
+    "duration": "11:23 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/DDqsYTJg/Rectangle-280-12.png"
+  },
+  {
+    "id": 64,
+    "bookId": 23,
+    "subject": "Math",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Extreme Values",
+    "duration": "6:04 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/hF0cFhJV/Rectangle-285-19.png"
+  },
+
+  /* ==================== 7. PHYSICS (Third Year - Scientific) ==================== */
+  {
+    "id": 65,
+    "bookId": 24,
+    "subject": "Physics",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Linear Momentum",
+    "duration": "19:37 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/27RQtgn1/Rectangle-276-15.png"
+  },
+  {
+    "id": 66,
+    "bookId": 24,
+    "subject": "Physics",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Average Thrust Force",
+    "duration": "2:33 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/2Vw0K88/Rectangle-280-13.png"
+  },
+  {
+    "id": 67,
+    "bookId": 24,
+    "subject": "Physics",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Collisions",
+    "duration": "11:23 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/ycgfd2vt/Rectangle-285-20.png"
+  },
+
+  /* ==================== 8. CHEMISTRY (Third Year - Scientific) ==================== */
+  {
+    "id": 68,
+    "bookId": 25,
+    "subject": "Chemistry",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Periodic Table",
+    "duration": "7:53 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/chsWKmfb/Rectangle-276-16.png"
+  },
+  {
+    "id": 69,
+    "bookId": 25,
+    "subject": "Chemistry",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Atomic Number",
+    "duration": "3:23 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/Y7jcNHt9/Rectangle-280-14.png"
+  },
+  {
+    "id": 70,
+    "bookId": 25,
+    "subject": "Chemistry",
+    "grade": "Third year of secondary school (Scientific)",
+    "title": "Mass Number",
+    "duration": "2:41 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/4Z4kJKKs/Rectangle-285-21.png"
   }
 ];
 
