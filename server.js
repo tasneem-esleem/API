@@ -627,6 +627,270 @@ const lessons = [
     videoUrl: "#",
     watched: false,
     thumbnail: "https://i.ibb.co/xK1jDXZv/Rectangle-285-7.png"
+  },
+  {
+    "id": 26,
+    "bookId": 11,
+    "subject": "History",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "French occupation",
+    "duration": "3:56 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/B5q1807L/Rectangle-276-5.png"
+  },
+  {
+    "id": 27,
+    "bookId": 11,
+    "subject": "History",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "British Mandate",
+    "duration": "3:47 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/WNcm6HCH/Rectangle-280-5.png"
+  },
+  {
+    "id": 28,
+    "bookId": 11,
+    "subject": "History",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Italian settler colonialism",
+    "duration": "16:03 mins",
+    "teacher": "T. Lina Muhammad",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/JR4NqDbZ/Rectangle-285-8.png"
+  },
+
+  /* ==================== 3. GEOGRAPHY ==================== */
+  {
+    "id": 29,
+    "bookId": 12,
+    "subject": "Geography",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "The Solar System",
+    "duration": "17:54 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/yFc6NPbK/Rectangle-276-6.png"
+  },
+  {
+    "id": 30,
+    "bookId": 12,
+    "subject": "Geography",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Planet Earth",
+    "duration": "7:22 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/nqmSGWV9/Rectangle-280-6.png"
+  },
+  {
+    "id": 31,
+    "bookId": 12,
+    "subject": "Geography",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "The Moon",
+    "duration": "9:51 mins",
+    "teacher": "T. Hoda Mahmoud",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/wZN2QnXp/Rectangle-285-9.png"
+  },
+
+  /* ==================== 4. ENGLISH ==================== */
+  {
+    "id": 32,
+    "bookId": 13,
+    "subject": "English",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Learning Style",
+    "duration": "3:32 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/M51Gw15h/Rectangle-276-7.png"
+  },
+  {
+    "id": 33,
+    "bookId": 13,
+    "subject": "English",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Tips Of Smart Learning",
+    "duration": "8:58 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/sdv1BzRv/Rectangle-280-7.png"
+  },
+  {
+    "id": 34,
+    "bookId": 13,
+    "subject": "English",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Education For Success",
+    "duration": "26:55 mins",
+    "teacher": "T. Mustafa Saleh",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/Swz1nC49/Rectangle-285-10.png"
+  },
+
+  /* ==================== 5. CHEMISTRY ==================== */
+  {
+    "id": 35,
+    "bookId": 14,
+    "subject": "Chemistry",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Metals And Alloys",
+    "duration": "4:37 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/ym8413kG/Rectangle-276-8.png"
+  },
+  {
+    "id": 36,
+    "bookId": 14,
+    "subject": "Chemistry",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Oil And Natural Gas",
+    "duration": "3:05 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/d0JHb3Rw/Rectangle-280-8.png"
+  },
+  {
+    "id": 37,
+    "bookId": 14,
+    "subject": "Chemistry",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Electrolysis",
+    "duration": "5:11 mins",
+    "teacher": "T. Nour Hassan",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/NXJwWYz/Rectangle-285-12.png"
+  },
+
+  /* ==================== 6. BIOLOGY ==================== */
+  {
+    "id": 38,
+    "bookId": 15,
+    "subject": "Biology",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Nucleic Acids",
+    "duration": "6:16 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/39wvsmPv/Rectangle-276-9.png"
+  },
+  {
+    "id": 39,
+    "bookId": 15,
+    "subject": "Biology",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Carbohydrates",
+    "duration": "5:34 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/bjxqz5G5/Rectangle-289.png"
+  },
+  {
+    "id": 40,
+    "bookId": 15,
+    "subject": "Biology",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Proteins",
+    "duration": "4:18 mins",
+    "teacher": "T. Youssef Al-Kilani",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/8gkfYNjd/Rectangle-285-13.png"
+  },
+
+  /* ==================== 7. MATH ==================== */
+  {
+    "id": 41,
+    "bookId": 16,
+    "subject": "Math",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Multiplication Table",
+    "duration": "2:33 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/RTGDGDgD/Rectangle-276-10.png"
+  },
+  {
+    "id": 42,
+    "bookId": 16,
+    "subject": "Math",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Mathematical Equations",
+    "duration": "25:05 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/JRbMTpSv/Rectangle-280-9.png"
+  },
+  {
+    "id": 43,
+    "bookId": 16,
+    "subject": "Math",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Mathematical Proof",
+    "duration": "9:41 mins",
+    "teacher": "T. Rana Youssef",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/F4qj5Bk1/Rectangle-285-14.png"
+  },
+
+  /* ==================== 8. PHYSICS ==================== */
+  {
+    "id": 44,
+    "bookId": 17,
+    "subject": "Physics",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "vector Quantities",
+    "duration": "4:23 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/Pv5TrsnC/Rectangle-276-11.png"
+  },
+  {
+    "id": 45,
+    "bookId": 17,
+    "subject": "Physics",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "Circular Motion",
+    "duration": "15:36 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/hR8nBYWM/Rectangle-280-10.png"
+  },
+  {
+    "id": 46,
+    "bookId": 17,
+    "subject": "Physics",
+    "grade": "Second year of secondary school (Scientific)",
+    "title": "The Nature Of Light",
+    "duration": "4:22 mins",
+    "teacher": "T. Kareem Adel",
+    "videoUrl": "#",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/gMvDKqGJ/Rectangle-285-15.png"
   }
 ];
 
