@@ -636,7 +636,7 @@ const lessons = [
     "title": "French occupation",
     "duration": "3:56 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/0upgqMmbUy8?si=o9UKpoNL3vTj3tsK",
     "watched": false,
     "thumbnail": "https://i.ibb.co/B5q1807L/Rectangle-276-5.png"
   },
@@ -648,7 +648,7 @@ const lessons = [
     "title": "British Mandate",
     "duration": "3:47 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/mITaDOAUAQE?si=-D-4Y-YwdwB5aBYZ",
     "watched": false,
     "thumbnail": "https://i.ibb.co/WNcm6HCH/Rectangle-280-5.png"
   },
@@ -660,7 +660,7 @@ const lessons = [
     "title": "Italian settler colonialism",
     "duration": "16:03 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/GIgGw0OEbiI?si=rbQigJ8SwFl478sE",
     "watched": false,
     "thumbnail": "https://i.ibb.co/JR4NqDbZ/Rectangle-285-8.png"
   },
@@ -674,7 +674,7 @@ const lessons = [
     "title": "The Solar System",
     "duration": "17:54 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/IH45r_ExTF8?si=Px_mnfHXl9PgQf24",
     "watched": false,
     "thumbnail": "https://i.ibb.co/yFc6NPbK/Rectangle-276-6.png"
   },
@@ -686,7 +686,7 @@ const lessons = [
     "title": "Planet Earth",
     "duration": "7:22 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/JGXi_9A__Vc?si=Ytw1KSlqXFu9lZGM",
     "watched": false,
     "thumbnail": "https://i.ibb.co/nqmSGWV9/Rectangle-280-6.png"
   },
@@ -698,7 +698,7 @@ const lessons = [
     "title": "The Moon",
     "duration": "9:51 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/mCzchPx3yF8?si=D8TZBCHBjRLbTwyH",
     "watched": false,
     "thumbnail": "https://i.ibb.co/wZN2QnXp/Rectangle-285-9.png"
   },
@@ -712,7 +712,7 @@ const lessons = [
     "title": "Learning Style",
     "duration": "3:32 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/_IopcOwfsoU?si=samxj7J9_6vGBOFf",
     "watched": false,
     "thumbnail": "https://i.ibb.co/M51Gw15h/Rectangle-276-7.png"
   },
@@ -724,7 +724,7 @@ const lessons = [
     "title": "Tips Of Smart Learning",
     "duration": "8:58 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/oHPOZj69SDg?si=FuM_hy69M09N_fw1",
     "watched": false,
     "thumbnail": "https://i.ibb.co/sdv1BzRv/Rectangle-280-7.png"
   },
@@ -736,7 +736,7 @@ const lessons = [
     "title": "Education For Success",
     "duration": "26:55 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/6V3kTqGnX10?si=IWaZI-iObsa1e6IU",
     "watched": false,
     "thumbnail": "https://i.ibb.co/Swz1nC49/Rectangle-285-10.png"
   },
@@ -750,7 +750,7 @@ const lessons = [
     "title": "Metals And Alloys",
     "duration": "4:37 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/P4fFoGKwcFs?si=awuXPsaJrAU5ky6P",
     "watched": false,
     "thumbnail": "https://i.ibb.co/ym8413kG/Rectangle-276-8.png"
   },
@@ -762,7 +762,7 @@ const lessons = [
     "title": "Oil And Natural Gas",
     "duration": "3:05 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/8YHsxXEVB1M?si=bhkyDUJwN1A2RL_-",
     "watched": false,
     "thumbnail": "https://i.ibb.co/d0JHb3Rw/Rectangle-280-8.png"
   },
@@ -774,7 +774,7 @@ const lessons = [
     "title": "Electrolysis",
     "duration": "5:11 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/7uIIq_Ofzgw?si=inb3hRw5fbSr9lep",
     "watched": false,
     "thumbnail": "https://i.ibb.co/NXJwWYz/Rectangle-285-12.png"
   },
@@ -788,7 +788,7 @@ const lessons = [
     "title": "Nucleic Acids",
     "duration": "6:16 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/SeOrvA9ikW8?si=ZqfM9gLoAaVINdsI",
     "watched": false,
     "thumbnail": "https://i.ibb.co/39wvsmPv/Rectangle-276-9.png"
   },
@@ -800,7 +800,7 @@ const lessons = [
     "title": "Carbohydrates",
     "duration": "5:34 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/rQyWJIn1HYE?si=A1kXNppTQzWhPle5",
     "watched": false,
     "thumbnail": "https://i.ibb.co/bjxqz5G5/Rectangle-289.png"
   },
@@ -812,7 +812,7 @@ const lessons = [
     "title": "Proteins",
     "duration": "4:18 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": " https://youtu.be/JGZj6DsUZhE?si=tvKJVBW0t2voqKe1",
     "watched": false,
     "thumbnail": "https://i.ibb.co/8gkfYNjd/Rectangle-285-13.png"
   },
@@ -826,7 +826,7 @@ const lessons = [
     "title": "Multiplication Table",
     "duration": "2:33 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": "https://youtube.com/watch?v=uup7IC7c1V8&feature=shared",
     "watched": false,
     "thumbnail": "https://i.ibb.co/RTGDGDgD/Rectangle-276-10.png"
   },
@@ -838,7 +838,7 @@ const lessons = [
     "title": "Mathematical Equations",
     "duration": "25:05 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": " https://youtube.com/watch?v=Z-ZkmpQBIFo&feature=shared",
     "watched": false,
     "thumbnail": "https://i.ibb.co/JRbMTpSv/Rectangle-280-9.png"
   },
@@ -850,7 +850,7 @@ const lessons = [
     "title": "Mathematical Proof",
     "duration": "9:41 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/YYgepDY3rHw?si=qmBfX04fefzbck8O",
     "watched": false,
     "thumbnail": "https://i.ibb.co/F4qj5Bk1/Rectangle-285-14.png"
   },
@@ -864,7 +864,7 @@ const lessons = [
     "title": "vector Quantities",
     "duration": "4:23 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/rTJ-hW2TVwE?si=NO3gEPzHCds7XUyP",
     "watched": false,
     "thumbnail": "https://i.ibb.co/Pv5TrsnC/Rectangle-276-11.png"
   },
@@ -876,7 +876,7 @@ const lessons = [
     "title": "Circular Motion",
     "duration": "15:36 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/y2FmgoOht7Y?si=wncnlvuh1Y9wFgM2",
     "watched": false,
     "thumbnail": "https://i.ibb.co/hR8nBYWM/Rectangle-280-10.png"
   },
@@ -888,7 +888,7 @@ const lessons = [
     "title": "The Nature Of Light",
     "duration": "4:22 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/mlz_Gg-H6dE?si=e8UjzUIRC5XTz9OJ",
     "watched": false,
     "thumbnail": "https://i.ibb.co/gMvDKqGJ/Rectangle-285-15.png"
   },
@@ -900,7 +900,7 @@ const lessons = [
     "title": "Frankish Wars",
     "duration": "14:19 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/H2hqa3AX5kY?si=wJJ-JW-b5BdhvV7i",
     "watched": false,
     "thumbnail": "https://i.ibb.co/B5q1807L/Rectangle-276-5.png"
   },
@@ -912,7 +912,7 @@ const lessons = [
     "title": "The First World War",
     "duration": "5:20 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/-GsolnXOiBg?si=MmaZmOC1II621dHt",
     "watched": false,
     "thumbnail": "https://i.ibb.co/WNcm6HCH/Rectangle-280-5.png"
   },
@@ -924,7 +924,7 @@ const lessons = [
     "title": "The Second World War",
     "duration": "28:25 mins",
     "teacher": "T. Lina Muhammad",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/hUDYd8LAvD8?si=lA1maiB4Hz8lid7j",
     "watched": false,
     "thumbnail": "https://i.ibb.co/JR4NqDbZ/Rectangle-285-8.png"
   },
@@ -938,7 +938,7 @@ const lessons = [
     "title": "Energy Resources",
     "duration": "3:51 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/N5mHKqcit9I?si=tF-w7gYblObWns1A",
     "watched": false,
     "thumbnail": "https://i.ibb.co/r24hTpcD/Rectangle-276-12.png"
   },
@@ -950,7 +950,7 @@ const lessons = [
     "title": "Climate Disasters",
     "duration": "5:56 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/G9t__9Tmwv4?si=68h8LRWBShrAjqIB",
     "watched": false,
     "thumbnail": "https://i.ibb.co/3yPL7yMB/Rectangle-280-11.png"
   },
@@ -962,7 +962,7 @@ const lessons = [
     "title": "Geological Disasters",
     "duration": "9:46 mins",
     "teacher": "T. Hoda Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/cqCHtePMC8E?si=cjz9vlmcyPZeChNp",
     "watched": false,
     "thumbnail": "https://i.ibb.co/CK60MP78/Rectangle-285-16.png"
   },
@@ -976,7 +976,7 @@ const lessons = [
     "title": "Future Continuous",
     "duration": "6:44 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/C0R9fbX2lfI?si=ubQiHn1ug5LGUx1-",
     "watched": false,
     "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
   },
@@ -988,7 +988,7 @@ const lessons = [
     "title": "Future Perfect",
     "duration": "8:11 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/RRCGlFNWbpk?si=DHt9yHIh23YB2nT0",
     "watched": false,
     "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
   },
@@ -1000,7 +1000,7 @@ const lessons = [
     "title": "Past Continuous",
     "duration": "7:01 mins",
     "teacher": "T. Mustafa Saleh",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/rNeifsgIUxU?si=kKv4crscDIcG1No0",
     "watched": false,
     "thumbnail": "https://i.ibb.co/NhXrvTV/Rectangle-285-17.png"
   },
@@ -1014,7 +1014,7 @@ const lessons = [
     "title": "Personal Pronouns",
     "duration": "13:13 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/1_6-iVACkLA?si=fFSSzmpeEwwKmSyf",
     "watched": false,
     "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
   },
@@ -1026,7 +1026,7 @@ const lessons = [
     "title": "Demonstrative Names",
     "duration": "5:13 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/eqpgVEgji64?si=pDNMQUM6eChg7Jel",
     "watched": false,
     "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
   },
@@ -1038,7 +1038,7 @@ const lessons = [
     "title": "Relative Pronouns",
     "duration": "4:00 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/WkCSumtam0I?si=ekI3IsjT66rH0laD",
     "watched": false,
     "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
   },
@@ -1052,7 +1052,7 @@ const lessons = [
     "title": "Photosynthesis process",
     "duration": "7:59 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/CMiPYHNNg28?si=eAkOpheI2-CU-4em",
     "watched": false,
     "thumbnail": "https://i.ibb.co/x8mbBPDS/Rectangle-276-13.png"
   },
@@ -1064,7 +1064,7 @@ const lessons = [
     "title": "Cellular respiration",
     "duration": "8:47 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/eJ9Zjc-jdys?si=o5s0c9zwfK7druzK",
     "watched": false,
     "thumbnail": "https://i.ibb.co/pr35Cbsw/Rectangle-289-1.png"
   },
@@ -1076,7 +1076,7 @@ const lessons = [
     "title": "Aerobic respiration",
     "duration": "2:53 mins",
     "teacher": "T. Youssef Al-Kilani",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/ZkqEno1r2jk?si=O8SqCN7GgdcU5iQ5",
     "watched": false,
     "thumbnail": "https://i.ibb.co/VWx7rBLX/Rectangle-285-18.png"
   },
@@ -1090,7 +1090,7 @@ const lessons = [
     "title": "Average Change",
     "duration": "4:43 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/lQRiw264bnI?si=29KcDH8emzURoRYs",
     "watched": false,
     "thumbnail": "https://i.ibb.co/twP2MWXd/Rectangle-276-14.png"
   },
@@ -1102,7 +1102,7 @@ const lessons = [
     "title": "Matrices",
     "duration": "11:23 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/yRwQ7A6jVLk?si=lODk8kbhFlsYl0Sv",
     "watched": false,
     "thumbnail": "https://i.ibb.co/DDqsYTJg/Rectangle-280-12.png"
   },
@@ -1114,7 +1114,7 @@ const lessons = [
     "title": "Extreme Values",
     "duration": "6:04 mins",
     "teacher": "T. Rana Youssef",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/Sx2lPZlnWfs?si=M0kZhw3UUQL3xA6O",
     "watched": false,
     "thumbnail": "https://i.ibb.co/hF0cFhJV/Rectangle-285-19.png"
   },
@@ -1128,7 +1128,7 @@ const lessons = [
     "title": "Linear Momentum",
     "duration": "19:37 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/SP2hy3Uf0Ls?si=rYEMNxv0wv8d9WWG",
     "watched": false,
     "thumbnail": "https://i.ibb.co/27RQtgn1/Rectangle-276-15.png"
   },
@@ -1140,7 +1140,7 @@ const lessons = [
     "title": "Average Thrust Force",
     "duration": "2:33 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/YJzilDa2WDs?si=lMOhm5X1vNvZRhed",
     "watched": false,
     "thumbnail": "https://i.ibb.co/2Vw0K88/Rectangle-280-13.png"
   },
@@ -1152,7 +1152,7 @@ const lessons = [
     "title": "Collisions",
     "duration": "11:23 mins",
     "teacher": "T. Kareem Adel",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/CFbo_nBdBco?si=Fa6tMcAkv76KxLdW",
     "watched": false,
     "thumbnail": "https://i.ibb.co/ycgfd2vt/Rectangle-285-20.png"
   },
@@ -1166,7 +1166,7 @@ const lessons = [
     "title": "Periodic Table",
     "duration": "7:53 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/CMiPYHNNg28?si=eAkOpheI2-CU-4em",
     "watched": false,
     "thumbnail": "https://i.ibb.co/chsWKmfb/Rectangle-276-16.png"
   },
@@ -1178,7 +1178,7 @@ const lessons = [
     "title": "Atomic Number",
     "duration": "3:23 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/eJ9Zjc-jdys?si=o5s0c9zwfK7druzK",
     "watched": false,
     "thumbnail": "https://i.ibb.co/Y7jcNHt9/Rectangle-280-14.png"
   },
@@ -1190,7 +1190,7 @@ const lessons = [
     "title": "Mass Number",
     "duration": "2:41 mins",
     "teacher": "T. Nour Hassan",
-    "videoUrl": "#",
+    "videoUrl": "https://youtu.be/ZkqEno1r2jk?si=O8SqCN7GgdcU5iQ5",
     "watched": false,
     "thumbnail": "https://i.ibb.co/4Z4kJKKs/Rectangle-285-21.png"
   }
