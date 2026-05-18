@@ -1597,7 +1597,36 @@ app.get("/api/quizzes/:id", (req, res) => {
   if (!quiz) return res.status(404).json({ error: "Quiz not found" });
   res.json(quiz);
 });
+const contactMessages = [];
 
+app.post("/api/contact", (req, res) => {
+  const { full_name, email, phone, message } = req.body;
+
+  if (!full_name || !full_name.trim())
+    return res.status(400).json({ error: "Full name is required" });
+  if (!email || !email.trim())
+    return res.status(400).json({ error: "Email is required" });
+  if (!message || !message.trim())
+    return res.status(400).json({ error: "Message is required" });
+
+  const newContact = {
+    id: contactMessages.length + 1,
+    full_name: full_name.trim(),
+    email: email.trim(),
+    phone: phone?.trim() || null,
+    message: message.trim(),
+    createdAt: new Date().toISOString(),
+  };
+
+  contactMessages.push(newContact);
+  console.log("📩 New contact message:", newContact);
+
+  res.status(201).json({ success: true, message: "Message sent successfully" });
+});
+
+app.get("/api/contact", (req, res) => {
+  res.json(contactMessages);
+});
 // ─── START ───────────────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 5000;
 
