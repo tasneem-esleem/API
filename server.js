@@ -1193,6 +1193,42 @@ const lessons = [
     "videoUrl": "https://youtu.be/ZkqEno1r2jk?si=O8SqCN7GgdcU5iQ5",
     "watched": false,
     "thumbnail": "https://i.ibb.co/4Z4kJKKs/Rectangle-285-21.png"
+  },
+  {
+    "id": 71,
+    "bookId": 26,
+    "subject": "Arabic",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Adverb Of Place",
+    "duration": "4:55 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "https://youtu.be/example1",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/example1.png"
+  },
+  {
+    "id": 72,
+    "bookId": 26,
+    "subject": "Arabic",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Adverb Of Time",
+    "duration": "3:30 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "https://youtu.be/example2",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/example2.png"
+  },
+  {
+    "id": 73,
+    "bookId": 26,
+    "subject": "Arabic",
+    "grade": "Second year of secondary school(Literary)",
+    "title": "Genitive Case",
+    "duration": "11:56 mins",
+    "teacher": "T. Ali Mahmoud",
+    "videoUrl": "https://youtu.be/example3",
+    "watched": false,
+    "thumbnail": "https://i.ibb.co/example3.png"
   }
 ];
 
