@@ -1202,9 +1202,9 @@ const lessons = [
     "title": "Adverb Of Place",
     "duration": "4:55 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "https://youtu.be/example1",
+    "videoUrl": " https://youtu.be/B8bVZRhu950?si=yzcLQvvoiQz7ixaf",
     "watched": false,
-    "thumbnail": "https://i.ibb.co/example1.png"
+    "thumbnail": "https://i.ibb.co/nqVgJYpK/Rectangle-276-4.png"
   },
   {
     "id": 72,
@@ -1214,9 +1214,9 @@ const lessons = [
     "title": "Adverb Of Time",
     "duration": "3:30 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "https://youtu.be/example2",
+    "videoUrl": "https://youtu.be/gwT_PhSgh78?si=3U4WiBk_CKndlHqs",
     "watched": false,
-    "thumbnail": "https://i.ibb.co/example2.png"
+    "thumbnail": "https://i.ibb.co/1JpYyWrF/Rectangle-280-4.png"
   },
   {
     "id": 73,
@@ -1226,9 +1226,9 @@ const lessons = [
     "title": "Genitive Case",
     "duration": "11:56 mins",
     "teacher": "T. Ali Mahmoud",
-    "videoUrl": "https://youtu.be/example3",
+    "videoUrl": "https://youtu.be/9eiw7yDTBI8?si=5VndZnBX9HwGfs5j",
     "watched": false,
-    "thumbnail": "https://i.ibb.co/example3.png"
+    "thumbnail": "https://i.ibb.co/xK1jDXZv/Rectangle-285-7.png"
   }
 ];
 
